@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Sliding Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="one">Paragraph One</string>
+    <string name="two">Paragraph Two</string>
+    <string name="three">Paragraph Three</string>
+    <string name="four">Paragraph Four</string>
+    <string-array name="text">
+        <item>Ini adalah paragraph 1. <br> by Harry</br></item>
+    	<item>Ini adalah paragraph 2.</item>
+    	<item>Ini adalah paragraph 3.</item>
+    	<item>Ini adalah paragraph 4.</item>
+    </string-array>
+
+</resources>
